@@ -12,7 +12,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaetanoLeal&bg_color=00054d&color=ffffff&line=ff7300&point=ff7300&area=true&hide_border=false&height=300" />
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+</p>
 <div>
 <h3>Front-end</h3>
 <p>
@@ -25,7 +25,6 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-</div>
 </div>
 
 <div>
