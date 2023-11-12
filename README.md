@@ -1,17 +1,21 @@
 <html>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Caetano%20Leal&fontAlign=30&stroke=00FF00&strokeWidth=3&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa726&height=140&section=header" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+My+name+is+Caetano+Leal;I%E2%80%99m+21+years+old;I%E2%80%99m+Brazilian;And+I%E2%80%99m+a+full+stack+developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FFA726&random=false&weight=600&width=435&size=30&lines=Hey+there!+My+name+is+Caetano+Leal;I%E2%80%99m+21+years+old;I%E2%80%99m+Brazilian;And+I%E2%80%99m+a+full+stack+developer" alt="Typing SVG" /></a>
 </div>
+
+<br> </br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaetanoLeal&show_icons=true&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoLeal&layout=compact&theme=highcontrast"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaetanoLeal&bg_color=00054d&color=ffffff&line=ff7300&point=ff7300&area=true&hide_border=false&height=300" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaetanoLeal&show_icons=true&theme=great-gatsby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoLeal&layout=compact&theme=great-gatsby"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaetanoLeal&bg_color=0d1117&height=300&color=ffa726&line=332108&point=ffd95b&area=true&hide_border=true" />
 </div>
 
-<h1>Main Tecnologies</h1>
+<br> </br>
+
+<h1>Main Technologies⚡</h1>
 <div align="center">
 <table>
   <tr>
@@ -49,6 +53,7 @@
   </tr>
 </table>
 </div>
+<br> </br>
 <div align="center">
   <h3>Contacts and midias</h3>
   <p>
@@ -61,4 +66,4 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa726&height=140&section=footer" />
