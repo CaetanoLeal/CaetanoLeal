@@ -25,7 +25,6 @@
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/>
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60" height="60"/>
-        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="60" height="60"/>
       </p>
     </td>
     <td>
