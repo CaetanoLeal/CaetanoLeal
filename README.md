@@ -2,14 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa726&height=140&section=header" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FFA726&random=false&weight=600&width=435&size=30&lines=Hey+there!+My+name+is+Caetano+Leal;I%E2%80%99m+21+years+old;I%E2%80%99m+Brazilian;And+I%E2%80%99m+a+dev+stack+full" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FFA726&random=false&weight=600&width=435&size=30&lines=Hey+there!+My+name+is+Caetano+Leal;I%E2%80%99m+21+years+old;I%E2%80%99m+Brazilian;And+I%E2%80%99m+full+stack+dev" alt="Typing SVG" /></a>
 </div>
 
 <br> </br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaetanoLeal&show_icons=true&theme=great-gatsby"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoLeal&layout=compact&theme=great-gatsby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaetanoLeal&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoLeal&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0d1117"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaetanoLeal&bg_color=0d1117&height=300&color=ffa726&line=332108&point=ffd95b&area=true&hide_border=true" />
 </div>
 
